@@ -1,7 +1,7 @@
 {
-	"fb": false,
+	"fb": true,
 	"cs": false,
 	"a" : "snpnZvLhx06WYY9qgH0adpPseqZlzPgSqwkCAhH0xfs=:TulsMsMxbR2TGKrmKKpqMQ==:h+Ip3d1Fuq3UsZjtyM3rmg=="
-	"s" : "failsafe.controlsoftware.co",
+	"s" : "disaster-recovery-u4xu7.ondigitalocean.app",
 	"p" : "/testpoint/info"
 }
